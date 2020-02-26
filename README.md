@@ -1,7 +1,5 @@
 # AdamThree
 A Simple Neural Network Built in Python.
-NOTE: Build is Failing because python (Requirements.txt is erroring)is not running on travis-ci.org
-all files work fine.
 
 <p align="center">
     <a href="https://github.com/FrostWizard4/AdamThree/releases/latest"><img alt="Release" src="https://img.shields.io/github/release/FrostWizard4/AdamThree.svg?style=flat-square"></a>
