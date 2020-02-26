@@ -7,9 +7,10 @@ A Simple Neural Network Built in Python.
     <a href="https://github.com/FrostWizard4/AdamThree/blob/master/LICENSE.md"><img alt="Software License" src="https://img.shields.io/badge/license-GPL3-brightgreen.svg?style=flat-square"></a>
 <a href="https://github.com/psf/black"><img alt="Code style: black" src="https://img.shields.io/badge/code%20style-black-000000.svg">
     <a href="https://github.com/FrostWizard4/AdamThree"><img alt="Made w/ Python" src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square"></a>                                                                       
-https://badges.frapsoft.com/os/v1/open-source.png?v=103
+<a href="https://github.com/FrostWizard4/AdamThree"><img alt="Made w/ Python" src="https://badges.frapsoft.com/os/v1/open-source.png?v=103
+?style=flat-square"></a>    
 </p>
-
+https://badges.frapsoft.com/os/v1/open-source.png?v=103
 
 ### Prerequisites
 
