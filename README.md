@@ -1,9 +1,9 @@
 # AdamThree
+A Simple Neural Network Built in Python
 
 <p align="center">
     <a href="https://github.com/FrostWizard4/AdamThree/releases/latest"><img alt="Release" src="https://img.shields.io/github/release/FrostWizard4/AdamThree.svg?style=flat-square"></a>
-    <a href="https://github.com/evilsocket/pwnagotchi/graphs/contributors"><img alt="Contributors" src="https://img.shields.io/github/contributors/FrostWizard4/AdamThree"/></a>
-    <a href="https://travis-ci.org/FrostWizard4/AdamThree"><img alt="Travis" src="https://img.shields.io/travis/FrostWizard4/AdamThree/master.svg?style=flat-square"></a>
+    <a href="https://github.com/FrostWizard4/AdamThree/graphs/contributors"><img alt="Contributors" src="https://img.shields.io/github/contributors/FrostWizard4/AdamThree"/></a>
 </p>
 
 
