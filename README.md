@@ -7,8 +7,6 @@ all files work fine.
     <a href="https://github.com/FrostWizard4/AdamThree/releases/latest"><img alt="Release" src="https://img.shields.io/github/release/FrostWizard4/AdamThree.svg?style=flat-square"></a>
     <a href="https://github.com/FrostWizard4/AdamThree/graphs/contributors"><img alt="Contributors" src="https://img.shields.io/github/contributors/FrostWizard4/AdamThree"/></a>
     <a href="https://github.com/FrostWizard4/AdamThree/blob/master/LICENSE.md"><img alt="Software License" src="https://img.shields.io/badge/license-GPL3-brightgreen.svg?style=flat-square"></a>
-    <a href="https://travis-ci.org/FrostWizard4/AdamThree"><img alt="Travis" src="https://img.shields.io/travis/FrostWizard4/AdamThree/master.svg?style=flat-square"></a>
-    <a href='https://coveralls.io/github/FrostWizard4/AdamThree?branch=master'><img src='https://coveralls.io/repos/github/FrostWizard4/AdamThree/badge.svg?branch=master' alt='Coverage Status' /></a>
 </p>
 
 
